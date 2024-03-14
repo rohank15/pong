@@ -1,1 +1,1 @@
-# pong
+# Pong written in C++
